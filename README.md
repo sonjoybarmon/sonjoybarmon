@@ -1,7 +1,7 @@
 Hi there, I'm SonjoyBarmon - Sonjoy 👋
 
 
-I'm a 😍😍 React Lover 😍😍!
+I'm a 😍😍 React Lover 😍😍! and A curious JavaScript developer 
 
 <!--
 **sonjoybarmon/sonjoybarmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
