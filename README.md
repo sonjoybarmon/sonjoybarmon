@@ -3,7 +3,7 @@ Hi there, I'm SonjoyBarmon - Sonjoy 👋
 
 -I'm a 😍😍 React Lover 😍😍! and A curious JavaScript developer 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn React, React Native, Vue, Node
+- 🥅 2020 Goals: Learn React
 - ⚡ Fun fact: I love to Explore the world 
 
 
@@ -17,10 +17,10 @@ Hi there, I'm SonjoyBarmon - Sonjoy 👋
 
 <br />
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/solaiman-shadin/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/dev.shadin) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@solaimanshadin) 
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10425732/solaiman-shadin)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sonjoy-chandra-barman-1848611b9/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.youtube.com/sonjoybarmon19) 
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@sonjoybarmon) 
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13958409/sonjoy-barmon)
 
 <br />
 
