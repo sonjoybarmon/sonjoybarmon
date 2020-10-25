@@ -36,8 +36,12 @@ Hi there, I'm SonjoyBarmon - Sonjoy 👋
 
 <br /><br />
 ### Github Starts
+
 <img width="550" alt="sonjoy barmon Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sonjoybarmon&show_icons=true"/>
-<br />
+
+
+
+
 [website]: https://sonjoybarmon.github.io/myProtfilio/
 [github]: https://https://github.com/sonjoybarmon
 [twitter]:https://twitter.com/sonjoybarman19
