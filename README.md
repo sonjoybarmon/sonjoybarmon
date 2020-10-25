@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br />
 
 [website]: https://sonjoybarmon.github.io/myProtfilio/
-[github]: https://github.com/Rayhan0Islam0Shagor
+[github]: https://https://github.com/sonjoybarmon
 [twitter]:https://twitter.com/sonjoybarman19
 [instagram]: https://instagram.com/sonjoybarman19
 [linkedin]: https://www.linkedin.com/in/sonjoy-chandra-barman-1848611b9/
