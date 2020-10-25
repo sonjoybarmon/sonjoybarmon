@@ -5,7 +5,8 @@ Hi there, I'm SonjoyBarmon - Sonjoy 👋
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn React, React Native, Vue, Node
 - ⚡ Fun fact: I love to Explore the world 
-<br />
+
+
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
