@@ -17,6 +17,7 @@ Hi there, I'm SonjoyBarmon - Sonjoy 👋
 
 <br />
 ### READ MORE
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sonjoy-chandra-barman-1848611b9/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.youtube.com/sonjoybarmon19) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@sonjoybarmon) 
