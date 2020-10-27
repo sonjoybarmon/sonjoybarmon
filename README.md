@@ -1,10 +1,10 @@
-Hi there, I'm SonjoyBarmon - Sonjoy 👋
+Hi there, I'm SonjoyBarmon - Sonjoy 😍
 
 
 -I'm a 😍😍 React Lover 😍😍! and A curious JavaScript developer 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn React
-- ⚡ Fun fact: I love to Explore the world 
+- 💓 I’m currently learning everything 🤣
+- 💓 2020 Goals: Learn 💕React,❣️node,💞MYSQL,
+- 💓 Fun fact: I love to Explore the world 
 
 
 
