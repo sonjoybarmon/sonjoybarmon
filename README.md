@@ -3,7 +3,8 @@ Hi there, I'm SonjoyBarmon - Sonjoy 😍
 
 -I'm a 😍😍 React Lover 😍😍! and A curious JavaScript developer 
 - 💓 I’m currently learning everything 🤣
-- 💓 2020 Goals: Learn 💕React,❣️node,💞MYSQL,
+- 💓 2020 Goals: Learn 💕React,❣️node,💞React-Native 💞NextJs💞redux
+💓 2020 Goals: Learn 💕React❣️node,💞React-Native 💞NextJs💞,
 - 💓 Fun fact: I love to Explore the world 
 
 
