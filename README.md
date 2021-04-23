@@ -48,6 +48,11 @@ Hi there, I'm SonjoyBarmon - Sonjoy 😍
 <img width="550" alt="sonjoy barmon Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sonjoybarmon&show_icons=true"/>
 
 
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/sonjoybarmon/count.svg" />
+</p>
+
 
 
 [website]: https://pro-sonjoy.web.app
