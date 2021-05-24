@@ -4,7 +4,7 @@ Hi there, I'm SonjoyBarmon - Sonjoy 😍
 -I'm a 😍😍 React Lover 😍😍! and A curious JavaScript developer 
 - 💓 I’m currently learning everything 🤣
 - 💓 2020 Goals: Learn 💕React,💞node , 💞 Redux 
-- 💓 2021 Goals: Learn 💞React-Native 💞NextJs, 💞Typescript
+- 💓 2021 Goals: Learn 💞React-Native 💞NextJs -- Done , 💞Typescript -- Basic , 💞 vue -- Basic, 💞 GraphQL , 💞 python
 - 💓 Fun fact: I love to Explore the world 
 
 
