@@ -46,12 +46,14 @@ Hi there, I'm SonjoyBarmon - Sonjoy 😍
 <img width="550" alt="sonjoy barmon Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sonjoybarmon&show_icons=true"/>
 
 
+<a href="https://app.daily.dev/sonjoybarmonn"><img src="https://api.daily.dev/devcards/d5558c1e3d364af181779dc1310fa0a4.png?r=kdm" width="400" alt="Sonjoy Chandra Barman's Dev Card"/></a>
+
+
 <h2 align="center">Visitor Count</h2>
 <p align="center">
   <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/sonjoybarmon/count.svg" />
 </p>
 
-<a href="https://app.daily.dev/sonjoybarmonn"><img src="https://api.daily.dev/devcards/d5558c1e3d364af181779dc1310fa0a4.png?r=kdm" width="400" alt="Sonjoy Chandra Barman's Dev Card"/></a>
 
 
 
