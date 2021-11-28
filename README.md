@@ -4,10 +4,10 @@ Hi there, I'm SonjoyBarmon - Sonjoy 😍
 -I'm a 😍😍 React Lover 😍😍! and A curious JavaScript developer 
 - 💓 I’m currently learning everything 🤣
 - 💓 2020 Goals: Learn 💕React,💞node , 💞 Redux 
-- 💓 2021 Goals: Learn 💞React-Native 💞NextJs -- Done , 💞Typescript -- Basic done , 💞 vue -- Basic done, 💞 GraphQL , 💞 python
+- 💓 2021 Goals: Learn 💞React-Native 💞NextJs -- Done , 💞Typescript -- done , 💞 vue -- Basic done, 💞 GraphQL , 💞 python
 - 💓 Fun fact: I love to Explore the world 
 
-
+<a href="https://app.daily.dev/sonjoybarmonn"><img src="https://api.daily.dev/devcards/d5558c1e3d364af181779dc1310fa0a4.png?r=kdm" width="400" alt="Sonjoy Chandra Barman's Dev Card"/></a>
 
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
