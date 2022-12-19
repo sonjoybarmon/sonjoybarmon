@@ -4,7 +4,7 @@ Hi there, I'm SonjoyBarmon - Sonjoy 😍
 -I'm a 😍😍 React Lover 😍😍! and A curious JavaScript developer 
 - 💓 I’m currently learning everything 🤣
 - 💓 2020 Goals: Learn 💕React,💞node , 💞 Redux 
-- 💓 2021 Goals: Learn 💞React-Native 💞NextJs -- Done , 💞Typescript -- done , 💞 vue -- Basic done, 💞 GraphQL , 💞 python
+- 💓 2021 Goals: Learn 💞React-Native 💞NextJs -- Done , 💞Typescript -- done , 💞 vue -- Basic done, 💞 GraphQL
 - 💓 Fun fact: I love to Explore the world 
 
 ### Connect with me:
@@ -47,6 +47,8 @@ Hi there, I'm SonjoyBarmon - Sonjoy 😍
 
 
 <a href="https://app.daily.dev/sonjoybarmonn"><img src="https://api.daily.dev/devcards/d5558c1e3d364af181779dc1310fa0a4.png?r=kdm" width="400" alt="Sonjoy Chandra Barman's Dev Card"/></a>
+
+<a href="https://app.daily.dev/sonjoy"><img src="https://api.daily.dev/devcards/6f9da114cdaa4e24a040fee0484534ba.png?r=ype" width="400" alt="Sonjoy Barman's Dev Card"/></a>
 
 
 <h2 align="center">Visitor Count</h2>
