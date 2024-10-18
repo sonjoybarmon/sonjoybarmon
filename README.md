@@ -6,13 +6,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
 
-I am a full stack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I have a well-rounded skillset that allows me to build and maintain complex web applications from start to finish. In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency. When I'm not coding, you can find me tinkering with new technologies and participating in hackathons and coding challenges.
+I am a full-stack developer specializing in the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I possess a comprehensive skill set that enables me to build and maintain complex web applications from start to finish. In addition to my technical capabilities, I am a strong problem solver, always seeking ways to improve processes and increase efficiency. When I'm not coding, I enjoy exploring new technologies and participating in hackathons and coding challenges.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Visit my Portfolio](http://pro-sonjoy.web.app/)
+* 🖥️  See my portfolio at [Visit my Portfolio](https://sonjoybarman.xyz/)
 * ✉️  You can contact me at [sonjoybarmon19@gmail.com](mailto:sonjoybarmon19@gmail.com)
-* 🧠  I'm learning I'm currently learning everything I can about JavaScript and web development. I'm also passionate about contributing to open source projects.
-* 🤝  I'm open to collaborating on I'm also open to collaborating on projects and ideas, so feel free to reach out to me if you have something interesting in mind.
+* 🧠  I'm currently learning about JavaScript and web development. I am also passionate about contributing to open-source projects.
+* 🤝  I'm open to collaborating on projects and ideas. Feel free to reach out if you have something interesting in mind.
 
 ### Skills
 
@@ -56,5 +56,3 @@ I am a full stack developer with a focus on the MERN stack (MongoDB, Express, Re
 <a href="http://www.github.com/sonjoybarmon"><img src="https://github-readme-stats.vercel.app/api?username=sonjoybarmon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sonjoybarmon's GitHub stats" /></a>
 
 <a href="http://www.github.com/sonjoybarmon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonjoybarmon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/sonjoybarmon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sonjoybarmon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
