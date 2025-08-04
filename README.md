@@ -1,43 +1,21 @@
-Your GitHub profile looks great\! It's very comprehensive and has a lot of good information. To make it even better and more readable, here are a few suggestions for improving the content and formatting.
-
------
-
-### Suggested Improvements
-
-Your current profile is detailed, but some of the text can be rephrased to be more impactful and easier to scan. By organizing the information into more digestible sections, you can make it easier for visitors to quickly grasp your skills and what you're all about.
-
------
-
-### Revised Content
-
-Here is a revised version of your profile content. You can copy and paste this directly, or use it as inspiration to make your own changes.
-
-```markdown
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sonjoy Barman
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sonjoy barman
 =====================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Full-stack+Web+Developer;Expert+in+MERN+Stack;React+and+Next.js+Specialist;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=600&height=45&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
 
-I'm a **full-stack developer** specializing in the **MERN stack** (MongoDB, Express, React, Node.js). I love building robust and scalable web applications from end to end, with a strong focus on both **front-end** and **back-end** development. I'm a passionate problem-solver, dedicated to improving processes and creating efficient, clean code. When I'm not coding, I'm exploring new technologies, contributing to open-source projects, or tackling coding challenges.
+I am a full-stack developer specializing in the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I possess a comprehensive skill set that enables me to build and maintain complex web applications from start to finish. In addition to my technical capabilities, I am a strong problem solver, always seeking ways to improve processes and increase efficiency. When I'm not coding, I enjoy exploring new technologies and participating in hackathons and coding challenges.
 
-### Connect with Me
+•⁠  ⁠🌍  I'm based in Bangladesh
+•⁠  ⁠🖥️  See my portfolio at [Visit my Portfolio](https://sonjoybarman.xyz/)
+•⁠  ⁠✉️  You can contact me at [sonjoybarmon19@gmail.com](mailto:sonjoybarmon19@gmail.com)
+•⁠  ⁠🧠  I'm currently learning about JavaScript and web development. I am also passionate about contributing to open-source projects.
+•⁠  ⁠🤝  I'm open to collaborating on projects and ideas. Feel free to reach out if you have something interesting in mind.
 
-- 🌍  I'm based in **Bangladesh**
-- ✉️  **Email**: sonjoybarmon19@gmail.com
-- 🔗  **Portfolio**: [sonjoybarman.xyz](https://sonjoybarman.xyz/)
+### Skills
 
----
-
-### What I'm Learning and Collaborating On
-
-- 🌱 I'm always sharpening my skills in **JavaScript** and modern web development.
-- 🤝 I'm open to collaborating on interesting projects and ideas.
-
----
-
-### My Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -66,10 +44,15 @@ I'm a **full-stack developer** specializing in the **MERN stack** (MongoDB, Expr
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/sonjoy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/sonjoybarmon#2535" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/SonjoyBarmon.19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sonjoybarmon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sonjoybarmon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sonjoybarmon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sonjoybarman19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-```
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sonjoybarmon"><img src="https://github-readme-stats.vercel.app/api?username=sonjoybarmon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sonjoybarmon's GitHub stats" /></a>
+
+<a href="http://www.github.com/sonjoybarmon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonjoybarmon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
